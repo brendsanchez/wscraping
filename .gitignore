@@ -1,0 +1,17 @@
+# files & directories created by Maven
+overlays/
+target/
+
+# files & directories created by IntelliJ
+.idea/
+*.iml
+
+# files & directories created by Eclipse
+.settings/
+*.classpath
+*.project
+*.tern-project
+
+# files & directories created by VSCode
+.vscode/*
+/bin/
